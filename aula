@@ -1,0 +1,8 @@
+echo "# curso-github" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeira confirmação" 
+git remote add origin https://github.com/lucasfreitasdornelas/curso-github.git
+ git push -u mestre de origem
+ git status
+ 
